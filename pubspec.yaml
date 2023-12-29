@@ -27,13 +27,13 @@ flutter:
   fonts:
     - family: MaterialSymbolsOutlined
       fonts:
-       - asset: lib/fonts/MaterialSymbolsOutlined[FILL,GRAD,opsz,wght].ttf
+       - asset: lib/fonts/MaterialSymbolsOutlined.ttf
        
     - family: MaterialSymbolsRounded
       fonts:
-       - asset: lib/fonts/MaterialSymbolsRounded[FILL,GRAD,opsz,wght].ttf
+       - asset: lib/fonts/MaterialSymbolsRounded.ttf
        
     - family: MaterialSymbolsSharp
       fonts:
-       - asset: lib/fonts/MaterialSymbolsSharp[FILL,GRAD,opsz,wght].ttf
+       - asset: lib/fonts/MaterialSymbolsSharp.ttf
     
